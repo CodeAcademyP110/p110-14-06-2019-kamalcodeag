@@ -2,7 +2,6 @@
 
 ### Homework - WinForm SQL
 - Aşağıdakı resursları oxuyun:
-  Resurslar:
   - https://docs.microsoft.com/en-us/dotnet/api/system.data.sqlclient.sqlconnection?view=netframework-4.8
   - https://docs.microsoft.com/en-us/dotnet/api/system.data.sqlclient.sqlcommand?view=netframework-4.8
   - https://docs.microsoft.com/en-us/dotnet/api/system.data.sqlclient.sqldatareader?view=netframework-4.8
