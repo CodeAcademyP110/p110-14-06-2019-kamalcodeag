@@ -1,0 +1,31 @@
+--create database iyun16
+use iyun16
+--create table cars
+--(
+--	id int primary key identity,
+--	year int not null,
+--	distance decimal(18,2) not null,
+--	color nvarchar(20) not null,
+--	marksId int not null
+--)
+--create table marks
+--(
+--	id int primary key identity,
+--	name nvarchar(50) not null
+--)
+--create table models
+--(
+--	id int primary key identity,
+--	name nvarchar(50) not null
+--)
+--alter table marks add modelsId int
+--alter table marks drop column modelsId
+--alter table models add marksId int
+--alter table cars drop column marksId
+--alter table cars add modelsId int
+
+--select * from cars
+--select * from marks
+--select * from models
+
+--select models.name,marks.name from models join marks on models.marksId = marks.Id
